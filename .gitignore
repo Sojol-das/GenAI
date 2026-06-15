@@ -1,4 +1,4 @@
-# ── CRITICAL: API keys and secrets ────────────────────────────────────────────
+git # ── CRITICAL: API keys and secrets ────────────────────────────────────────────
 .env
 *.env
 .env.*
